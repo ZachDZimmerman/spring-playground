@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1484326549578" />
+    <option name="importOrderConfigFilePath" value="$USER_HOME$/Dev/IntelliJ/lb_formatter.importorder" />
+    <option name="importOrderFromFile" value="true" />
+    <option name="name" value="LB" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/Dev/IntelliJ/lb_formatter.xml" />
+    <option name="selectedJavaProfile" value="LevelsBeyond" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
